@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;    
+    align-items: center;
+    padding: 1.2rem 1.8rem;
+    background: linear-gradient(135deg, #ff007f, #7f00ff); /* Added colors here */
+    color: #fff;
+}
+
+.dark-btn {
+    background: #1a1a1a; /* Dark gray/black background */
+    color: #ffffff;      /* White text color */
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.h1:hover{
+    cursor: pointer;
+
+}
+

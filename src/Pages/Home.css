@@ -1,0 +1,41 @@
+
+
+.section h2 {
+  text-align: start;
+  margin-top: 2rem;
+  font-size: 1.6rem;
+  margin-left: 20px;
+  
+}
+body.dark h2{
+  color: #fff;
+}
+
+body.dark p{
+  color: #e41138;
+}
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 1.5rem;
+}
+.load-more {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.8rem 1.5rem;
+  background: #ff8a00;
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.back-btn{
+  margin-left: 10px;
+    padding: 0.8rem 1rem;
+    background: #ff8a00;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+}
