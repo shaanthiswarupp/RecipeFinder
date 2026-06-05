@@ -8,11 +8,6 @@
   transition: transform 0.2s ease;  
 }
 
-
-
-
-
-
 body.dark .recipe-card{
   background: #2b2b2b; 
   color: #fff;
